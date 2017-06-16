@@ -19,7 +19,7 @@ $ npm start
 
 veras que se abre tu navegador en la liga http://localhost:3000 y listo puedes ver la aplicacion corriendo con normalidad, solo que en un entorno de desarrollo.
 
-##Requerimientos minimos necesarios
+## Requerimientos minimos necesarios
 
 Para poder correr esta aplicacion es necesario tener instalados:
 
